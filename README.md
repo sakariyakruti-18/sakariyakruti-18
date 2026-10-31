@@ -45,7 +45,7 @@ Python, SQL, Machine Learning and Artificial Intelligence.
 
 ## 📫 Connect With Me
 - GitHub: https://github.com/sakariyakruti-18
-- LinkedIn: Add your LinkedIn URL here
+- LinkedIn: https://www.linkedin.com/in/kruti-sakariya-090bb5346?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ---
 ⭐ Thanks for visiting my profile!
